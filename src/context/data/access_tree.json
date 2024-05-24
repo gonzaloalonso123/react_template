@@ -1,0 +1,6 @@
+[
+  {
+    "name": "spaceships",
+    "methods": ["get", "post", "put", "delete"]
+  }
+]
